@@ -64,3 +64,4 @@ ALLOWED_ORIGINS=https://your-domain.example
 - `data_store.json` شامل هش رمزهاست، با مجوز `0600` نوشته می‌شود و در `.gitignore` قرار دارد. آن را کامیت نکنید.
 "# caspian-team-activity-hub-secured" 
 "# caspian-team-activity-hub-secured-2026" 
+"# caspian-team-activity-hub" 
