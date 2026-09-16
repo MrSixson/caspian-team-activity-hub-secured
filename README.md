@@ -65,3 +65,4 @@ ALLOWED_ORIGINS=https://your-domain.example
 "# caspian-team-activity-hub-secured" 
 "# caspian-team-activity-hub-secured-2026" 
 "# caspian-team-activity-hub" 
+"# caspian-team-activity-hub" 
