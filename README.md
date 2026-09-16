@@ -62,3 +62,4 @@ ALLOWED_ORIGINS=https://your-domain.example
 - هر مسیر API نیازمند نشست معتبر است؛ عملیات حساس نیازمند دسترسی متناظر.
 - هیچ‌کس نمی‌تواند رنکی مساوی یا بالاتر از رنک خودش اعطا کند.
 - `data_store.json` شامل هش رمزهاست، با مجوز `0600` نوشته می‌شود و در `.gitignore` قرار دارد. آن را کامیت نکنید.
+"# caspian-team-activity-hub-secured" 
