@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Contains user records and scrypt password hashes — never commit it.
+data_store.json
+data_store.json.tmp
